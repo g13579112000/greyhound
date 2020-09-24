@@ -1,0 +1,10 @@
+C:\Projects\C#\Work\Greyhound\Grayhound\bin\Debug\Grayhound.exe.config
+C:\Projects\C#\Work\Greyhound\Grayhound\bin\Debug\Grayhound.exe
+C:\Projects\C#\Work\Greyhound\Grayhound\bin\Debug\Grayhound.pdb
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.csprojAssemblyReference.cache
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.Form1.resources
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.Properties.Resources.resources
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.csproj.GenerateResource.cache
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.exe
+C:\Projects\C#\Work\Greyhound\Grayhound\obj\Debug\Grayhound.pdb
